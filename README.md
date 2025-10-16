@@ -502,12 +502,6 @@ Contributions welcome! Areas for improvement:
 
 MIT License
 
-## 📧 Support
-
-- GitHub Issues
-- Email: support@cloudcostoptimizer.com
-- Docs: https://docs.cloudcostoptimizer.com
-
 ## 🗺️ Roadmap
 
 ### Version 2.0
@@ -528,5 +522,5 @@ MIT License
 
 **Version**: 1.0.0  
 **Last Updated**: October 2025  
-**Author**: Cloud Engineering Team  
+**Author**: Siddharth Raut 
 **Status**: Production Ready (Demo Version)
