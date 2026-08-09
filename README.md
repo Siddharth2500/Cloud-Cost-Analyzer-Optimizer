@@ -156,7 +156,7 @@ if trend:
     print(f"Trend: {trend.trend}")
     print(f"Dates: {len(trend.dates)} days")
     print(f"Total: ${sum(trend.costs):.2f}")
-```
+`````
 
 #### Example 6: Forecast Future Costs
 ```python
