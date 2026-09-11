@@ -3,7 +3,7 @@
 ## 🎯 Overview
 A comprehensive cloud cost analysis and optimization system that identifies cost-saving opportunities, forecasts future spending, and generates actionable recommendations. This **standalone version requires NO external dependencies** and simulates AWS cost data for demonstration and learning purposes.
 
--------------
+---------------
 
 ## ✨ Features
 
