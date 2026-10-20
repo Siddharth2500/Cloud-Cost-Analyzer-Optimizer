@@ -520,7 +520,7 @@ MIT License
 - [ ] Slack/email notifications
 - [ ] Cost allocation models
 
----
+------
 
 **Version**: 1.0.0  
 **Last Updated**: October 2025  
